@@ -1,0 +1,16 @@
+C:\Users\indre\source\repos\OOPFiles\Frozen\obj\Debug\net5.0\Frozen.csproj.AssemblyReference.cache
+C:\Users\indre\source\repos\OOPFiles\Frozen\obj\Debug\net5.0\Frozen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indre\source\repos\OOPFiles\Frozen\obj\Debug\net5.0\Frozen.AssemblyInfoInputs.cache
+C:\Users\indre\source\repos\OOPFiles\Frozen\obj\Debug\net5.0\Frozen.AssemblyInfo.cs
+C:\Users\indre\source\repos\OOPFiles\Frozen\obj\Debug\net5.0\Frozen.csproj.CoreCompileInputs.cache
+C:\Users\indre\source\repos\OOPFiles\Frozen\bin\Debug\net5.0\Frozen.exe
+C:\Users\indre\source\repos\OOPFiles\Frozen\bin\Debug\net5.0\Frozen.deps.json
+C:\Users\indre\source\repos\OOPFiles\Frozen\bin\Debug\net5.0\Frozen.runtimeconfig.json
+C:\Users\indre\source\repos\OOPFiles\Frozen\bin\Debug\net5.0\Frozen.runtimeconfig.dev.json
+C:\Users\indre\source\repos\OOPFiles\Frozen\bin\Debug\net5.0\Frozen.dll
+C:\Users\indre\source\repos\OOPFiles\Frozen\bin\Debug\net5.0\ref\Frozen.dll
+C:\Users\indre\source\repos\OOPFiles\Frozen\bin\Debug\net5.0\Frozen.pdb
+C:\Users\indre\source\repos\OOPFiles\Frozen\obj\Debug\net5.0\Frozen.dll
+C:\Users\indre\source\repos\OOPFiles\Frozen\obj\Debug\net5.0\ref\Frozen.dll
+C:\Users\indre\source\repos\OOPFiles\Frozen\obj\Debug\net5.0\Frozen.pdb
+C:\Users\indre\source\repos\OOPFiles\Frozen\obj\Debug\net5.0\Frozen.genruntimeconfig.cache

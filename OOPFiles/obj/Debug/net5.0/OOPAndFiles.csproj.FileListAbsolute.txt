@@ -1,0 +1,15 @@
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\bin\Debug\net5.0\OOPAndFiles.exe
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\bin\Debug\net5.0\OOPAndFiles.deps.json
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\bin\Debug\net5.0\OOPAndFiles.runtimeconfig.json
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\bin\Debug\net5.0\OOPAndFiles.runtimeconfig.dev.json
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\bin\Debug\net5.0\OOPAndFiles.dll
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\bin\Debug\net5.0\ref\OOPAndFiles.dll
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\bin\Debug\net5.0\OOPAndFiles.pdb
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\obj\Debug\net5.0\OOPAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\obj\Debug\net5.0\OOPAndFiles.AssemblyInfoInputs.cache
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\obj\Debug\net5.0\OOPAndFiles.AssemblyInfo.cs
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\obj\Debug\net5.0\OOPAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\obj\Debug\net5.0\OOPAndFiles.dll
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\obj\Debug\net5.0\ref\OOPAndFiles.dll
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\obj\Debug\net5.0\OOPAndFiles.pdb
+C:\Users\indre\source\repos\OOPFiles\OOPFiles\obj\Debug\net5.0\OOPAndFiles.genruntimeconfig.cache
